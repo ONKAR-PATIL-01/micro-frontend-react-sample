@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  color: brown;
+  max-width: 800px;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+button{
+  color: blueviolet
+}
+.c1{
+  color: aqua;
+  font-size: larger;
+}
